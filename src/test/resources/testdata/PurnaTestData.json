@@ -1,0 +1,51 @@
+{
+  "testData": {
+    "commonTestData" : {
+      "key1" : "value1",
+      "key2" : "value2"
+    },
+    "Purna_TC_001" : {
+      "username" : "demo@demo.com",
+      "password" : "Learnwell@1234",
+      "expectedUrl":"https://purnadata.in/complete-banking-module/admin/dashboard.php",
+      "CustName":"John",
+      "contactNumber":"12345678"
+    },
+    "Purna_TC_002" : {
+      "username" : "mark@gmail.com",
+      "password" : "waugh"
+    },
+    "Purna_TC_003" : {
+      "username" : "mark@gmail.com",
+      "password" : "taylor"
+    },
+    "Purna_TC_004" : {
+      "username" : "mark@gmail.com",
+      "password" : "taylor"
+    },
+    "Purna_TC_005" : {
+      "invoiceNo" : "909090",
+      "powo" : "powo1234",
+      "powoDate": "21/01/2023",
+      "contactNumber":"8888123789"
+    },
+    "Purna_TC_006" : {
+      "invoiceNo" : "909090",
+      "powo" : "powo1234",
+      "powoDate": "21/01/2023",
+      "contactNumber":"8888123789"
+    },
+    "Purna_TC_007" : {
+      "srNo" : "100123",
+      "projectCode" : "PR0123",
+      "projectName" : "PurnaData",
+      "budgetAmout" : "100000",
+      "customerName": "Atul"
+    },
+    "Purna_TC_008" : {
+      "contactNo" : "8888146874",
+      "CrditPeriodName" : "CR123",
+      "amount" : "12000"
+    }
+  }
+}
